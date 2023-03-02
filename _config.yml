@@ -1,2 +1,4 @@
 #Build settings
 theme:minima
+gems:
+  - jekyll-redirect-from
